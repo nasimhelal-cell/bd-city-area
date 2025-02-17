@@ -1,0 +1,612 @@
+[
+  {
+    "areaId": 776,
+    "area": "Dhanmondi-27",
+    "areaBangla": "ধানমন্ডি-২৭"
+  },
+  {
+    "areaId": 777,
+    "area": "Dhanmondi-32",
+    "areaBangla": "ধানমন্ডি-৩২"
+  },
+  {
+    "areaId": 759,
+    "area": "Shyamoli - Road No 01- 04",
+    "areaBangla": "শ্যামলী - রোড ১থেকে ৪ "
+  },
+  {
+    "areaId": 4,
+    "area": "Agargaon",
+    "areaBangla": "আগারগাঁও"
+  },
+  {
+    "areaId": 10,
+    "area": "Azimpur",
+    "areaBangla": "আজিমপুর"
+  },
+  {
+    "areaId": 3,
+    "area": "Adabar",
+    "areaBangla": "আদাবর"
+  },
+  {
+    "areaId": 726,
+    "area": "Aftabnagar",
+    "areaBangla": "আফতাবনগর"
+  },
+  {
+    "areaId": 42,
+    "area": "Ibrahimpur",
+    "areaBangla": "ইব্রাহিমপুর"
+  },
+  {
+    "areaId": 707,
+    "area": "Islampur",
+    "areaBangla": "ইসলামপুর "
+  },
+  {
+    "areaId": 36,
+    "area": "Eskaton",
+    "areaBangla": "ইস্কাটন"
+  },
+  {
+    "areaId": 111,
+    "area": "Uttarkhan",
+    "areaBangla": "উত্তরখান"
+  },
+  {
+    "areaId": 110,
+    "area": "Uttara",
+    "areaBangla": "উত্তরা"
+  },
+  {
+    "areaId": 31,
+    "area": "Elephant Road",
+    "areaBangla": "এ্যালিফেন্ট রোড"
+  },
+  {
+    "areaId": 112,
+    "area": "Wari",
+    "areaBangla": "ওয়ারী"
+  },
+  {
+    "areaId": 49,
+    "area": "Kamalapur",
+    "areaBangla": "কমলাপুর"
+  },
+  {
+    "areaId": 47,
+    "area": "Kalabagan",
+    "areaBangla": "কলাবাগান"
+  },
+  {
+    "areaId": 48,
+    "area": "Kalyanpur",
+    "areaBangla": "কল্যাণপুর"
+  },
+  {
+    "areaId": 52,
+    "area": "Kawranbazar",
+    "areaBangla": "কাওরানবাজার"
+  },
+  {
+    "areaId": 665,
+    "area": "Kakrail",
+    "areaBangla": "কাকরাইল"
+  },
+  {
+    "areaId": 53,
+    "area": "Kazipara",
+    "areaBangla": "কাজীপাড়া"
+  },
+  {
+    "areaId": 51,
+    "area": "KathalBagan",
+    "areaBangla": "কাঠালবাগান"
+  },
+  {
+    "areaId": 46,
+    "area": "Kafrul",
+    "areaBangla": "কাফরুল"
+  },
+  {
+    "areaId": 50,
+    "area": "Kamrangirchar",
+    "areaBangla": "কামরঙ্গীরচর"
+  },
+  {
+    "areaId": 722,
+    "area": "Kuril Bisshoroad",
+    "areaBangla": "কুড়িল বিশ্বরোড"
+  },
+  {
+    "areaId": 7,
+    "area": "Keraniganj",
+    "areaBangla": "কেরানীগঞ্জ"
+  },
+  {
+    "areaId": 57,
+    "area": "Kotwali",
+    "areaBangla": "কোতয়ালী"
+  },
+  {
+    "areaId": 22,
+    "area": "Cantonment",
+    "areaBangla": "ক্যান্টনমেন্ট"
+  },
+  {
+    "areaId": 56,
+    "area": "Khilkhet",
+    "areaBangla": "খিলখেত"
+  },
+  {
+    "areaId": 55,
+    "area": "Khilgaon",
+    "areaBangla": "খিলগাঁও"
+  },
+  {
+    "areaId": 33,
+    "area": "Gabtali",
+    "areaBangla": "গাবতলী"
+  },
+  {
+    "areaId": 38,
+    "area": "Gulshan-1",
+    "areaBangla": "গুলশান-১"
+  },
+  {
+    "areaId": 39,
+    "area": "Gulshan-2",
+    "areaBangla": "গুলশান-২"
+  },
+  {
+    "areaId": 37,
+    "area": "Gulistan",
+    "areaBangla": "গুলিস্থান"
+  },
+  {
+    "areaId": 34,
+    "area": "Gandaria",
+    "areaBangla": "গেন্ডারিয়া"
+  },
+  {
+    "areaId": 35,
+    "area": "Green Road",
+    "areaBangla": "গ্রীন রোড"
+  },
+  {
+    "areaId": 23,
+    "area": "Choukbazar",
+    "areaBangla": "চকবাজার"
+  },
+  {
+    "areaId": 44,
+    "area": "Jigatala",
+    "areaBangla": "জিগাতলা"
+  },
+  {
+    "areaId": 45,
+    "area": "Jurain",
+    "areaBangla": "জুরাইন"
+  },
+  {
+    "areaId": 109,
+    "area": "Tikatuli",
+    "areaBangla": "টিকাটুলি"
+  },
+  {
+    "areaId": 26,
+    "area": "Demra",
+    "areaBangla": "ডেমরা"
+  },
+  {
+    "areaId": 30,
+    "area": "Dhaka University",
+    "areaBangla": "ঢাকা বিশ্ববিদ্যালয়"
+  },
+  {
+    "areaId": 644,
+    "area": "Turag",
+    "areaBangla": "তুরাগ"
+  },
+  {
+    "areaId": 108,
+    "area": "Tejkunipara",
+    "areaBangla": "তেজকুনিপাড়া"
+  },
+  {
+    "areaId": 107,
+    "area": "Tejgaon",
+    "areaBangla": "তেজগাঁও"
+  },
+  {
+    "areaId": 24,
+    "area": "Dakhinkhan",
+    "areaBangla": "দক্ষিণখান"
+  },
+  {
+    "areaId": 25,
+    "area": "Dayaganj",
+    "areaBangla": "দয়াগঞ্জ"
+  },
+  {
+    "areaId": 6,
+    "area": "Dohar",
+    "areaBangla": "দোহার"
+  },
+  {
+    "areaId": 28,
+    "area": "Dhanmondi",
+    "areaBangla": "ধানমন্ডি"
+  },
+  {
+    "areaId": 5,
+    "area": "Dhamrai",
+    "areaBangla": "ধামরাই"
+  },
+  {
+    "areaId": 8,
+    "area": "Nawabganj",
+    "areaBangla": "নবাবগঞ্জ"
+  },
+  {
+    "areaId": 78,
+    "area": "NayaPaltan",
+    "areaBangla": "নয়া পল্টন"
+  },
+  {
+    "areaId": 730,
+    "area": "Nardda",
+    "areaBangla": "নর্দ্দা"
+  },
+  {
+    "areaId": 73,
+    "area": "Nakhalpara",
+    "areaBangla": "নাখালপাড়া"
+  },
+  {
+    "areaId": 74,
+    "area": "Narinda",
+    "areaBangla": "নারিন্দা"
+  },
+  {
+    "areaId": 79,
+    "area": "New Eskaton",
+    "areaBangla": "নিউ ইস্কাটন"
+  },
+  {
+    "areaId": 80,
+    "area": "New Market",
+    "areaBangla": "নিউ মার্কেট"
+  },
+  {
+    "areaId": 76,
+    "area": "Nikunjo",
+    "areaBangla": "নিকুঞ্জ"
+  },
+  {
+    "areaId": 75,
+    "area": "Niketon",
+    "areaBangla": "নিকেতন"
+  },
+  {
+    "areaId": 81,
+    "area": "Nilkhet",
+    "areaBangla": "নীলক্ষেত"
+  },
+  {
+    "areaId": 82,
+    "area": "Polashi",
+    "areaBangla": "পলাশী"
+  },
+  {
+    "areaId": 83,
+    "area": "Pallabi",
+    "areaBangla": "পল্লবী"
+  },
+  {
+    "areaId": 84,
+    "area": "Panthapath",
+    "areaBangla": "পান্থপথ"
+  },
+  {
+    "areaId": 86,
+    "area": "Purana Paltan",
+    "areaBangla": "পুরানা পল্টন"
+  },
+  {
+    "areaId": 87,
+    "area": "Purbachal",
+    "areaBangla": "পূর্বাচল"
+  },
+  {
+    "areaId": 85,
+    "area": "Postagola",
+    "areaBangla": "পোস্তগোলা"
+  },
+  {
+    "areaId": 32,
+    "area": "Farmgate",
+    "areaBangla": "ফার্মগেট"
+  },
+  {
+    "areaId": 12,
+    "area": "Bakshibazar",
+    "areaBangla": "বকশীবাজার"
+  },
+  {
+    "areaId": 15,
+    "area": "Banasree",
+    "areaBangla": "বনশ্রী"
+  },
+  {
+    "areaId": 13,
+    "area": "Banani",
+    "areaBangla": "বনানী"
+  },
+  {
+    "areaId": 14,
+    "area": "Banani DOHS",
+    "areaBangla": "বনানী ডিওএইচএস"
+  },
+  {
+    "areaId": 16,
+    "area": "Bangshal",
+    "areaBangla": "বংশাল"
+  },
+  {
+    "areaId": 20,
+    "area": "Basundhara",
+    "areaBangla": "বসুন্ধরা"
+  },
+  {
+    "areaId": 756,
+    "area": "Basundhara -Joyarsahar",
+    "areaBangla": "বসুন্ধরা- জোয়ারসাহার"
+  },
+  {
+    "areaId": 11,
+    "area": "Badda",
+    "areaBangla": "বাড্ডা"
+  },
+  {
+    "areaId": 17,
+    "area": "Baridhara",
+    "areaBangla": "বারিধারা"
+  },
+  {
+    "areaId": 18,
+    "area": "Baridhara DOHS",
+    "areaBangla": "বারিধারা ডিওএইচএস"
+  },
+  {
+    "areaId": 678,
+    "area": "Banglabazar",
+    "areaBangla": "বাংলাবাজার"
+  },
+  {
+    "areaId": 659,
+    "area": "Banglamotor",
+    "areaBangla": "বাংলামটর"
+  },
+  {
+    "areaId": 19,
+    "area": "Basabo",
+    "areaBangla": "বাসাবো"
+  },
+  {
+    "areaId": 645,
+    "area": "Airport Thana",
+    "areaBangla": "বিমানবন্দর থানা"
+  },
+  {
+    "areaId": 21,
+    "area": "BUET campus",
+    "areaBangla": "বুয়েট ক্যাম্পাস"
+  },
+  {
+    "areaId": 675,
+    "area": "Vatara",
+    "areaBangla": "ভাটারা"
+  },
+  {
+    "areaId": 769,
+    "area": "Vashantek",
+    "areaBangla": "ভাষানটেক"
+  },
+  {
+    "areaId": 60,
+    "area": "Maghbazar",
+    "areaBangla": "মগবাজার"
+  },
+  {
+    "areaId": 72,
+    "area": "Motijheel",
+    "areaBangla": "মতিঝিল"
+  },
+  {
+    "areaId": 69,
+    "area": "Mohakhali",
+    "areaBangla": "মহাখালী"
+  },
+  {
+    "areaId": 70,
+    "area": "Mohakhali DOHS",
+    "areaBangla": "মহাখালী ডিওএইচএস"
+  },
+  {
+    "areaId": 729,
+    "area": "Maniknagar",
+    "areaBangla": "মানিকনগর"
+  },
+  {
+    "areaId": 61,
+    "area": "Malibag",
+    "areaBangla": "মালিবাগ"
+  },
+  {
+    "areaId": 62,
+    "area": "Mirpur",
+    "areaBangla": "মিরপুর"
+  },
+  {
+    "areaId": 677,
+    "area": "Mughda",
+    "areaBangla": "মুগদা"
+  },
+  {
+    "areaId": 71,
+    "area": "Mohammadpur",
+    "areaBangla": "মোহাম্মদপুর"
+  },
+  {
+    "areaId": 43,
+    "area": "Jatrabari",
+    "areaBangla": "যাত্রাবাড়ী"
+  },
+  {
+    "areaId": 90,
+    "area": "Ramna",
+    "areaBangla": "রমনা"
+  },
+  {
+    "areaId": 88,
+    "area": "Rajabazar",
+    "areaBangla": "রাজাবাজার"
+  },
+  {
+    "areaId": 89,
+    "area": "Rajarbag",
+    "areaBangla": "রাজারবাগ"
+  },
+  {
+    "areaId": 91,
+    "area": "Rampura",
+    "areaBangla": "রামপুরা"
+  },
+  {
+    "areaId": 737,
+    "area": "Rayerbag",
+    "areaBangla": "রায়েরবাগ"
+  },
+  {
+    "areaId": 92,
+    "area": "Rayerbazar",
+    "areaBangla": "রায়েরবাজার"
+  },
+  {
+    "areaId": 93,
+    "area": "Rupnagar",
+    "areaBangla": "রূপনগর"
+  },
+  {
+    "areaId": 732,
+    "area": "Lakshmibazar",
+    "areaBangla": "লক্ষীবাজার"
+  },
+  {
+    "areaId": 58,
+    "area": "Lalbag",
+    "areaBangla": "লালবাগ"
+  },
+  {
+    "areaId": 59,
+    "area": "Lalmatia",
+    "areaBangla": "লালমাটিয়া"
+  },
+  {
+    "areaId": 736,
+    "area": "Shonirakhra",
+    "areaBangla": "শনিরআখড়া"
+  },
+  {
+    "areaId": 101,
+    "area": "Shantinagar",
+    "areaBangla": "শান্তিনগর"
+  },
+  {
+    "areaId": 99,
+    "area": "Shahjadpur",
+    "areaBangla": "শাহজাদপুর"
+  },
+  {
+    "areaId": 98,
+    "area": "Shajahanpur",
+    "areaBangla": "শাহজানপুর"
+  },
+  {
+    "areaId": 97,
+    "area": "Shahbag",
+    "areaBangla": "শাহবাগ"
+  },
+  {
+    "areaId": 641,
+    "area": "Shimrail",
+    "areaBangla": "শিমরাইল"
+  },
+  {
+    "areaId": 104,
+    "area": "Shukrabad",
+    "areaBangla": "শুক্রাবাদ"
+  },
+  {
+    "areaId": 102,
+    "area": "Sher-e-Bangla Nagar",
+    "areaBangla": "শেরে বাংলা নগর"
+  },
+  {
+    "areaId": 100,
+    "area": "Shampur",
+    "areaBangla": "শ্যামপুর"
+  },
+  {
+    "areaId": 103,
+    "area": "Shyamoli",
+    "areaBangla": "শ্যামলী"
+  },
+  {
+    "areaId": 95,
+    "area": "Sadarghat",
+    "areaBangla": "সদরঘাট"
+  },
+  {
+    "areaId": 94,
+    "area": "Sabujbag",
+    "areaBangla": "সবুজবাগ"
+  },
+  {
+    "areaId": 636,
+    "area": "Signboard Kadamtoli",
+    "areaBangla": "সাইনবোর্ড কদমতলী"
+  },
+  {
+    "areaId": 9,
+    "area": "Savar",
+    "areaBangla": "সাভার"
+  },
+  {
+    "areaId": 105,
+    "area": "Siddeswary",
+    "areaBangla": "সিদ্ধেশ্বরী"
+  },
+  {
+    "areaId": 106,
+    "area": "Sutrapur",
+    "areaBangla": "সূত্রাপুর"
+  },
+  {
+    "areaId": 96,
+    "area": "Segunbagicha",
+    "areaBangla": "সেগুনবাগিচা"
+  },
+  {
+    "areaId": 40,
+    "area": "Hazaribagh",
+    "areaBangla": "হাজারীবাগ"
+  },
+  {
+    "areaId": 660,
+    "area": "Hatirpul",
+    "areaBangla": "হাতিরপুল"
+  }
+]

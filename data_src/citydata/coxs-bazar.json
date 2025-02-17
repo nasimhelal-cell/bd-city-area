@@ -1,0 +1,42 @@
+[
+  {
+    "areaId": 474,
+    "area": "Ukhia",
+    "areaBangla": "উখিয়া "
+  },
+  {
+    "areaId": 469,
+    "area": "Cox's Bazar Sadar",
+    "areaBangla": "কক্সবাজার সদর"
+  },
+  {
+    "areaId": 470,
+    "area": "Kutubdia",
+    "areaBangla": "কুতুবদিয়া"
+  },
+  {
+    "areaId": 468,
+    "area": "Chakaria",
+    "areaBangla": "চকরিয়া"
+  },
+  {
+    "areaId": 473,
+    "area": "Teknaf",
+    "areaBangla": "টেকনাফ"
+  },
+  {
+    "areaId": 627,
+    "area": "Pekua",
+    "areaBangla": "পেকুয়া"
+  },
+  {
+    "areaId": 471,
+    "area": "Maheshkhali",
+    "areaBangla": "মহেশখালী"
+  },
+  {
+    "areaId": 472,
+    "area": "Ramu",
+    "areaBangla": "রামু"
+  }
+]

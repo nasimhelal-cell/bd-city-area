@@ -1,0 +1,322 @@
+[
+  {
+    "cityId": 1,
+    "name": "Dhaka",
+    "banglaName": "ঢাকা"
+  },
+  {
+    "cityId": 2,
+    "name": "Rajshahi",
+    "banglaName": "রাজশাহী"
+  },
+  {
+    "cityId": 3,
+    "name": "cox's bazar",
+    "banglaName": "কক্সবাজার"
+  },
+  {
+    "cityId": 4,
+    "name": "Khulna",
+    "banglaName": "খুলনা"
+  },
+  {
+    "cityId": 5,
+    "name": "Kishoreganj",
+    "banglaName": "কিশোরগঞ্জ"
+  },
+  {
+    "cityId": 6,
+    "name": "Sylhet",
+    "banglaName": "সিলেট"
+  },
+  {
+    "cityId": 7,
+    "name": "Rangpur",
+    "banglaName": "রংপুর"
+  },
+  {
+    "cityId": 8,
+    "name": "Kurigram",
+    "banglaName": "কুড়িগ্রাম"
+  },
+  {
+    "cityId": 9,
+    "name": "Kumilla",
+    "banglaName": "কুমিল্লা"
+  },
+  {
+    "cityId": 10,
+    "name": "Kustia",
+    "banglaName": "কুষ্টিয়া"
+  },
+  {
+    "cityId": 11,
+    "name": "Khagrachari",
+    "banglaName": "খাগড়াছড়ি"
+  },
+  {
+    "cityId": 12,
+    "name": "Gaibandha",
+    "banglaName": "গাইবান্ধা"
+  },
+  {
+    "cityId": 13,
+    "name": "Gazipur",
+    "banglaName": "গাজীপুর"
+  },
+  {
+    "cityId": 14,
+    "name": "Gopalganj",
+    "banglaName": "গোপালগঞ্জ"
+  },
+  {
+    "cityId": 15,
+    "name": "Chittagong",
+    "banglaName": "চট্টগ্রাম"
+  },
+  {
+    "cityId": 16,
+    "name": "Chandpur",
+    "banglaName": "চাঁদপুর"
+  },
+  {
+    "cityId": 17,
+    "name": "Chapai Nawabganj",
+    "banglaName": "চাপাই নবাবগঞ্জ"
+  },
+  {
+    "cityId": 18,
+    "name": "Chuadanga",
+    "banglaName": "চুয়াডাঙ্গা"
+  },
+  {
+    "cityId": 19,
+    "name": "Joypurhat",
+    "banglaName": "জয়পুরহাট"
+  },
+  {
+    "cityId": 20,
+    "name": "Jamalpur",
+    "banglaName": "জামালপুর"
+  },
+  {
+    "cityId": 21,
+    "name": "Jhalakathi",
+    "banglaName": "ঝালকাঠি"
+  },
+  {
+    "cityId": 22,
+    "name": "Tangail",
+    "banglaName": "টাঙ্গাইল"
+  },
+  {
+    "cityId": 23,
+    "name": "Thakurgaon",
+    "banglaName": "ঠাকুরগাঁও"
+  },
+  {
+    "cityId": 24,
+    "name": "Dinajpur",
+    "banglaName": "দিনাজপুর"
+  },
+  {
+    "cityId": 25,
+    "name": "Nowgong",
+    "banglaName": "নওগাঁ"
+  },
+  {
+    "cityId": 26,
+    "name": "Narail",
+    "banglaName": "নড়াইল"
+  },
+  {
+    "cityId": 27,
+    "name": "Norshindi",
+    "banglaName": "নরসিংদী"
+  },
+  {
+    "cityId": 28,
+    "name": "Natore",
+    "banglaName": "নাটোর"
+  },
+  {
+    "cityId": 29,
+    "name": "Narayanganj",
+    "banglaName": "নরায়ণগঞ্জ"
+  },
+  {
+    "cityId": 30,
+    "name": "Nilphamari",
+    "banglaName": "নীলফামারী"
+  },
+  {
+    "cityId": 31,
+    "name": "Netrokona",
+    "banglaName": "নেত্রকোনা"
+  },
+  {
+    "cityId": 32,
+    "name": "Noakhali",
+    "banglaName": "নোয়াখালী"
+  },
+  {
+    "cityId": 33,
+    "name": "Panchagarh",
+    "banglaName": "পঞ্চগড়"
+  },
+  {
+    "cityId": 34,
+    "name": "Patuakhali",
+    "banglaName": "পটুয়াখালী"
+  },
+  {
+    "cityId": 35,
+    "name": "Pabna",
+    "banglaName": "পাবনা"
+  },
+  {
+    "cityId": 36,
+    "name": "Pirojpur",
+    "banglaName": "পিরোজপুর"
+  },
+  {
+    "cityId": 37,
+    "name": "Faridpur",
+    "banglaName": "ফরিদপুর"
+  },
+  {
+    "cityId": 38,
+    "name": "Feni",
+    "banglaName": "ফেনী"
+  },
+  {
+    "cityId": 39,
+    "name": "Bogura",
+    "banglaName": "বগুড়া"
+  },
+  {
+    "cityId": 40,
+    "name": "Barguna",
+    "banglaName": "বরগুনা"
+  },
+  {
+    "cityId": 41,
+    "name": "Barisal",
+    "banglaName": "বরিশাল"
+  },
+  {
+    "cityId": 42,
+    "name": "Bagerhat",
+    "banglaName": "বাগেরহাট"
+  },
+  {
+    "cityId": 43,
+    "name": "Bandarban",
+    "banglaName": "বান্দরবান"
+  },
+  {
+    "cityId": 44,
+    "name": "Brahmanbaria",
+    "banglaName": "ব্রাহ্মণবাড়ীয়া"
+  },
+  {
+    "cityId": 45,
+    "name": "Bhola",
+    "banglaName": "ভোলা"
+  },
+  {
+    "cityId": 46,
+    "name": "Mymensingh",
+    "banglaName": "ময়মনসিংহ"
+  },
+  {
+    "cityId": 47,
+    "name": "Magura",
+    "banglaName": "মাগুরা"
+  },
+  {
+    "cityId": 48,
+    "name": "Madaripur",
+    "banglaName": "মাদারীপুর"
+  },
+  {
+    "cityId": 49,
+    "name": "Manikganj",
+    "banglaName": "মানিকগঞ্জ"
+  },
+  {
+    "cityId": 50,
+    "name": "Munshiganj",
+    "banglaName": "মুন্সিগঞ্জ"
+  },
+  {
+    "cityId": 51,
+    "name": "Meherpur",
+    "banglaName": "মেহেরপুর"
+  },
+  {
+    "cityId": 52,
+    "name": "Moulvibazar",
+    "banglaName": "মৌলভীবাজার"
+  },
+  {
+    "cityId": 53,
+    "name": "Jashore",
+    "banglaName": "যশোর"
+  },
+  {
+    "cityId": 54,
+    "name": "Rangamati",
+    "banglaName": "রাঙ্গামাটি"
+  },
+  {
+    "cityId": 55,
+    "name": "Rajbari",
+    "banglaName": "রাজবাড়ী"
+  },
+  {
+    "cityId": 56,
+    "name": "Lakshmipur",
+    "banglaName": "লক্ষ্মীপুর"
+  },
+  {
+    "cityId": 57,
+    "name": "Lalmonirhat",
+    "banglaName": "লালমনিরহাট"
+  },
+  {
+    "cityId": 58,
+    "name": "Shariatpur",
+    "banglaName": "শরীয়তপুর"
+  },
+  {
+    "cityId": 59,
+    "name": "Sherpur",
+    "banglaName": "শেরপুর"
+  },
+  {
+    "cityId": 60,
+    "name": "Satkhira",
+    "banglaName": "সাতক্ষীরা"
+  },
+  {
+    "cityId": 61,
+    "name": "Sirajganj",
+    "banglaName": "সিরাজগঞ্জ"
+  },
+  {
+    "cityId": 62,
+    "name": "Sunamganj",
+    "banglaName": "সুনামগঞ্জ"
+  },
+  {
+    "cityId": 63,
+    "name": "Habiganj",
+    "banglaName": "হবিগঞ্জ"
+  },
+  {
+    "cityId": 64,
+    "name": "Jhenaidah",
+    "banglaName": "ঝিনাইদহ"
+  }
+]

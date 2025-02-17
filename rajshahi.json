@@ -1,0 +1,57 @@
+[
+  {
+    "areaId": 313,
+    "area": "Godagari",
+    "areaBangla": "গোদাগাড়ি "
+  },
+  {
+    "areaId": 311,
+    "area": "Charghat",
+    "areaBangla": "চারঘাট"
+  },
+  {
+    "areaId": 646,
+    "area": "Cherag Ghat",
+    "areaBangla": "চেরাগঘাট"
+  },
+  {
+    "areaId": 316,
+    "area": "Tanore",
+    "areaBangla": "তানোর"
+  },
+  {
+    "areaId": 312,
+    "area": "Durgapur",
+    "areaBangla": "দুর্গাপুর"
+  },
+  {
+    "areaId": 625,
+    "area": "Poba",
+    "areaBangla": "পবা"
+  },
+  {
+    "areaId": 315,
+    "area": "Puthia",
+    "areaBangla": "পুটিয়া"
+  },
+  {
+    "areaId": 310,
+    "area": "Bagmara",
+    "areaBangla": "বাঘমারা"
+  },
+  {
+    "areaId": 309,
+    "area": "Bagha",
+    "areaBangla": "বাঘা"
+  },
+  {
+    "areaId": 314,
+    "area": "Mohanpur",
+    "areaBangla": "মোহনপুর"
+  },
+  {
+    "areaId": 624,
+    "area": "Rajshahi City",
+    "areaBangla": "রাজশাহী সিটি"
+  }
+]
