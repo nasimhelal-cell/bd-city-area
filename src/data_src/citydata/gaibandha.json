@@ -1,0 +1,37 @@
+[
+    {
+        "areaId": 341,
+        "area": "Gaibandha Sadar   ",
+        "areaBangla": "গাইবান্ধা সদর "
+    },
+    {
+        "areaId": 342,
+        "area": "Gobindaganj   ",
+        "areaBangla": "গোবিন্দগঞ্জ "
+    },
+    {
+        "areaId": 343,
+        "area": "Palashbari   ",
+        "areaBangla": "পলাশবাড়ী "
+    },
+    {
+        "areaId": 340,
+        "area": "Phulchhari   ",
+        "areaBangla": "ফুলছড়ি"
+    },
+    {
+        "areaId": 345,
+        "area": "Shaghata",
+        "areaBangla": "সাঘাটা"
+    },
+    {
+        "areaId": 344,
+        "area": "Sadullapur   ",
+        "areaBangla": "সাদুল্লাপুর "
+    },
+    {
+        "areaId": 346,
+        "area": "Sundarganj   ",
+        "areaBangla": "সুন্দরগঞ্জ "
+    }
+]

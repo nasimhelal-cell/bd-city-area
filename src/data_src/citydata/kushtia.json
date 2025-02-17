@@ -1,0 +1,37 @@
+[
+    {
+        "areaId": 629,
+        "area": "Islami University Thana",
+        "areaBangla": "ইসলামী বিশ্ববিদ্যালয় থানা "
+    },
+    {
+        "areaId": 592,
+        "area": "Kumarkhali   ",
+        "areaBangla": "কুমারখালি "
+    },
+    {
+        "areaId": 593,
+        "area": "Kushtia Sadar   ",
+        "areaBangla": "কুষ্টিয়া সদর "
+    },
+    {
+        "areaId": 591,
+        "area": "Khoksa   ",
+        "areaBangla": "খোকসা "
+    },
+    {
+        "areaId": 590,
+        "area": "Daulatpur  ",
+        "areaBangla": "দৌলতপুর "
+    },
+    {
+        "areaId": 589,
+        "area": "Bheramara   ",
+        "areaBangla": "ভেড়ামারা "
+    },
+    {
+        "areaId": 594,
+        "area": "Mirpur   ",
+        "areaBangla": "মিরপুর "
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "areaId": 254,
+        "area": "Kalihati   ",
+        "areaBangla": "কালিহাটি "
+    },
+    {
+        "areaId": 249,
+        "area": "Gopalpur   ",
+        "areaBangla": "গোপালপুর "
+    },
+    {
+        "areaId": 253,
+        "area": "Ghatail   ",
+        "areaBangla": "ঘাটাইল"
+    },
+    {
+        "areaId": 260,
+        "area": "Tangail Sadar   ",
+        "areaBangla": "টাঙ্গাইল সদর "
+    },
+    {
+        "areaId": 252,
+        "area": "Delduar   ",
+        "areaBangla": "দেলদুয়ার "
+    },
+    {
+        "areaId": 259,
+        "area": "Dhonbari   ",
+        "areaBangla": "ধনবাড়ী "
+    },
+    {
+        "areaId": 257,
+        "area": "Nagarpur   ",
+        "areaBangla": "নাগরপুর"
+    },
+    {
+        "areaId": 250,
+        "area": "Basail   ",
+        "areaBangla": "বাসাইল "
+    },
+    {
+        "areaId": 251,
+        "area": "Bhuapur   ",
+        "areaBangla": "ভূয়াপুর "
+    },
+    {
+        "areaId": 255,
+        "area": "Madhupur   ",
+        "areaBangla": "মধুপুর "
+    },
+    {
+        "areaId": 256,
+        "area": "Mirzapur   ",
+        "areaBangla": "মির্জাপুর "
+    },
+    {
+        "areaId": 258,
+        "area": "Sakhipur   ",
+        "areaBangla": "সখিপুর "
+    }
+]

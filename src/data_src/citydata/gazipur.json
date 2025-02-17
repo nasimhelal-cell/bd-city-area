@@ -1,0 +1,37 @@
+[
+    {
+        "areaId": 152,
+        "area": "Kapasia     ",
+        "areaBangla": "কাপাসিয়া   "
+    },
+    {
+        "areaId": 151,
+        "area": "Kaliganj      ",
+        "areaBangla": "কালিগঞ্জ  "
+    },
+    {
+        "areaId": 150,
+        "area": "Kaliakair   ",
+        "areaBangla": "কালিয়াকৈর "
+    },
+    {
+        "areaId": 149,
+        "area": "Gazipur Sadar   ",
+        "areaBangla": "গাজীপুর সদর "
+    },
+    {
+        "areaId": 153,
+        "area": "Tongi   ",
+        "areaBangla": "টঙ্গী "
+    },
+    {
+        "areaId": 154,
+        "area": "Sreepur   ",
+        "areaBangla": "শ্রীপুর "
+    },
+    {
+        "areaId": 720,
+        "area": "City Corporation",
+        "areaBangla": "সিটি কর্পোরেশন"
+    }
+]

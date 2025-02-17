@@ -1,0 +1,72 @@
+[
+  {
+    "areaId": 676,
+    "area": "Airport",
+    "areaBangla": "এয়ারপোর্ট"
+  },
+  {
+    "areaId": 630,
+    "area": "Osmaninagar",
+    "areaBangla": "ওসমানিনগর"
+  },
+  {
+    "areaId": 548,
+    "area": "Kanaighat",
+    "areaBangla": "কানাইঘাট"
+  },
+  {
+    "areaId": 543,
+    "area": "Companiganj",
+    "areaBangla": "কোম্পানীগঞ্জ"
+  },
+  {
+    "areaId": 546,
+    "area": "Gowainghat",
+    "areaBangla": "গোয়াইনঘাট"
+  },
+  {
+    "areaId": 545,
+    "area": "Golapganj",
+    "areaBangla": "গোলাপগঞ্জ"
+  },
+  {
+    "areaId": 550,
+    "area": "Zakiganj",
+    "areaBangla": "জকিগঞ্জ"
+  },
+  {
+    "areaId": 547,
+    "area": "Jaintiapur",
+    "areaBangla": "জৈন্তাপুর"
+  },
+  {
+    "areaId": 654,
+    "area": "Dokkhin Surma",
+    "areaBangla": "দক্ষিন সুরমা"
+  },
+  {
+    "areaId": 544,
+    "area": "Fenchuganj",
+    "areaBangla": "ফেঞ্চুগঞ্জ"
+  },
+  {
+    "areaId": 540,
+    "area": "Balaganj",
+    "areaBangla": "বালাগঞ্জ"
+  },
+  {
+    "areaId": 541,
+    "area": "Beanibazar",
+    "areaBangla": "বিয়ানীবাজার"
+  },
+  {
+    "areaId": 542,
+    "area": "Bishwanath",
+    "areaBangla": "বিশ্বনাথ"
+  },
+  {
+    "areaId": 549,
+    "area": "Sylhet Sadar",
+    "areaBangla": "সিলেট সদর"
+  }
+]

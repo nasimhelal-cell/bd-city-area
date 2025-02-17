@@ -1,0 +1,42 @@
+[
+    {
+        "areaId": 448,
+        "area": "Kachua   ",
+        "areaBangla": "কঁচুয়া "
+    },
+    {
+        "areaId": 444,
+        "area": "Chandpur Sadar   ",
+        "areaBangla": "চাঁদপুর সদর "
+    },
+    {
+        "areaId": 445,
+        "area": "Faridganj   ",
+        "areaBangla": "ফরিদগঞ্জ "
+    },
+    {
+        "areaId": 449,
+        "area": "Matlab   ",
+        "areaBangla": "মতলব "
+    },
+    {
+        "areaId": 450,
+        "area": "Motlob Uttor ",
+        "areaBangla": "মতলব উত্তর "
+    },
+    {
+        "areaId": 451,
+        "area": "Shahrasti   ",
+        "areaBangla": "শাহরাস্তি "
+    },
+    {
+        "areaId": 446,
+        "area": "Haimchar   ",
+        "areaBangla": "হাইমচর"
+    },
+    {
+        "areaId": 447,
+        "area": "Haziganj   ",
+        "areaBangla": "হাজিগঞ্জ "
+    }
+]

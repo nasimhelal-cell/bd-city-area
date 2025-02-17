@@ -1,0 +1,47 @@
+[
+    {
+        "areaId": 355,
+        "area": "Ulipur   ",
+        "areaBangla": "উলিপুর "
+    },
+    {
+        "areaId": 351,
+        "area": "Kurigram Sadar   ",
+        "areaBangla": "কুড়িঁগ্রাম সদর "
+    },
+    {
+        "areaId": 349,
+        "area": "Chilmari   ",
+        "areaBangla": "চিলমারী"
+    },
+    {
+        "areaId": 352,
+        "area": "Nageshwari   ",
+        "areaBangla": "নাগেশ্বরী "
+    },
+    {
+        "areaId": 350,
+        "area": "Phulbari ",
+        "areaBangla": "ফুলবাড়ি "
+    },
+    {
+        "areaId": 347,
+        "area": "Bhurungamari   ",
+        "areaBangla": "ভুরুঙ্গামারী "
+    },
+    {
+        "areaId": 353,
+        "area": "Rajarhat   ",
+        "areaBangla": "রাজারহাট "
+    },
+    {
+        "areaId": 348,
+        "area": "Rajibpur   ",
+        "areaBangla": "রাজিবপুর "
+    },
+    {
+        "areaId": 354,
+        "area": "Raomari   ",
+        "areaBangla": "রৌমারী "
+    }
+]

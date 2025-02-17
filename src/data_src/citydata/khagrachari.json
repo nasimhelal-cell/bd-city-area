@@ -1,0 +1,47 @@
+[
+    {
+        "areaId": 482,
+        "area": "Khagrachhari Sadar ",
+        "areaBangla": "খাগড়াছড়ি সদর "
+    },
+    {
+        "areaId": 705,
+        "area": "Guimara ",
+        "areaBangla": "গুইমারা "
+    },
+    {
+        "areaId": 481,
+        "area": "Dighinala   ",
+        "areaBangla": "দীঘিনালা "
+    },
+    {
+        "areaId": 487,
+        "area": "Panchhari   ",
+        "areaBangla": "পানছড়ি "
+    },
+    {
+        "areaId": 484,
+        "area": "Mahalchhari   ",
+        "areaBangla": "মহলছড়ি "
+    },
+    {
+        "areaId": 486,
+        "area": "Matiranga   ",
+        "areaBangla": "মাটিরাঙ্গা "
+    },
+    {
+        "areaId": 485,
+        "area": "Manikchhari   ",
+        "areaBangla": "মানিকছড়ি "
+    },
+    {
+        "areaId": 488,
+        "area": "Ramgarh   ",
+        "areaBangla": "রামগড় "
+    },
+    {
+        "areaId": 483,
+        "area": "Lakshmichhari   ",
+        "areaBangla": "লক্ষিছড়ি "
+    }
+]

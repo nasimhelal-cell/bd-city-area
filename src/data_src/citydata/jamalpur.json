@@ -1,0 +1,37 @@
+[
+    {
+        "areaId": 162,
+        "area": "Islampur   ",
+        "areaBangla": "ইসলামপুর "
+    },
+    {
+        "areaId": 163,
+        "area": "Jamalpur Sadar   ",
+        "areaBangla": "জামালপুর সদর  "
+    },
+    {
+        "areaId": 161,
+        "area": "Dewanganj    ",
+        "areaBangla": "দেওয়ানগঞ্জ    "
+    },
+    {
+        "areaId": 160,
+        "area": "Baksiganj      ",
+        "areaBangla": "বকশীগঞ্জ   "
+    },
+    {
+        "areaId": 164,
+        "area": "Madarganj   ",
+        "areaBangla": "মাদারগঞ্জ "
+    },
+    {
+        "areaId": 165,
+        "area": "Melandaha   ",
+        "areaBangla": "মেলান্দহ "
+    },
+    {
+        "areaId": 166,
+        "area": "Sarishabari   ",
+        "areaBangla": "সরিষাবাড়ি  "
+    }
+]

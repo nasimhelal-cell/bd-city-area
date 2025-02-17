@@ -1,0 +1,27 @@
+[
+    {
+        "areaId": 156,
+        "area": "Kashiani   ",
+        "areaBangla": "কাশিয়ানী  "
+    },
+    {
+        "areaId": 157,
+        "area": "Kotalipara      ",
+        "areaBangla": "কোটালীপাড়া   "
+    },
+    {
+        "areaId": 155,
+        "area": "Gopalganj Sadar   ",
+        "areaBangla": "গোপালগঞ্জ সদর  "
+    },
+    {
+        "areaId": 159,
+        "area": "Tungipara   ",
+        "areaBangla": "টুঙ্গীপাড়া  "
+    },
+    {
+        "areaId": 158,
+        "area": "Moksedpur",
+        "areaBangla": "মোকসেদপুর"
+    }
+]
