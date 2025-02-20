@@ -24,15 +24,28 @@ export async function GET(request: NextRequest) {
     // Parse the JSON content
     const jsonData = JSON.parse(fileContents);
 
-    // Return the JSON data as a response
-    return NextResponse.json(jsonData, { status: 200 });
+    // Return the JSON data with CORS headers
+    return new NextResponse(JSON.stringify(jsonData), {
+      status: 200,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+        'Content-Type': 'application/json',
+      },
+    });
   } catch (error) {
     // Handle potential errors
     console.error("Error reading JSON file:", error);
 
-    return NextResponse.json(
-      { error: "Unable to read data file" },
-      { status: 500 }
-    );
+    return new NextResponse(JSON.stringify({ error: "Unable to read data file" }), {
+      status: 500,
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, PUT, DELETE, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+        'Content-Type': 'application/json',
+      },
+    });
   }
 }
